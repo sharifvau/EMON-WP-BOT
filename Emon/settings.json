@@ -1,0 +1,27 @@
+{
+  "antilink": {
+    "120363409176134869@g.us": "allLinks",
+    "120363407497395735@g.us": "allLinks"
+  },
+  "antispam": {},
+  "welcome": {
+    "120363427380430878@g.us": true,
+    "120363409176134869@g.us": true,
+    "120363429736361463@g.us": true,
+    "120363427227122696@g.us": true
+  },
+  "goodbye": {},
+  "groupPersonality": {
+    "120363409176134869@g.us": "You are EMON BOT, a helpful WhatsApp assistant created by EMON HAWLADAR."
+  },
+  "bannedUsers": [
+    "8801933646657",
+    "",
+    "601157471700"
+  ],
+  "bannedGroups": [],
+  "disabledCommands": [],
+  "replyInbox": true,
+  "replyGroup": true,
+  "welcomeText": {}
+}
