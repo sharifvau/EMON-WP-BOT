@@ -27,8 +27,8 @@ module.exports = {
   OWNER_EMAIL: "emonhawladar311@gmail.com",
 
   // ── LOGIN ──
-  loginMode: "qr",              // "qr" | "pair"
-  pairingNumber: "60177606401",
+  loginMode: "pair",              // "qr" | "pair"
+  pairingNumber: "601157471700",
 
   // ── AI ──
   AI: {
